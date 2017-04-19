@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Zhenyu\Desktop\UCSB_2016_Fall\291I\voforia\vuforia-sdk-android-6-0-117\samples\CS291A_Final_Integrated_v3\app\vuforia-sdk-android-6-0-117\build\java\vuforia\Vuforia.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
+        <dex dex="C:\Users\Zhenyu\Desktop\UCSB_2016_Fall\291I\voforia\vuforia-sdk-android-6-0-117\samples\CS291A_Final_Integrated_v3\app\build\intermediates\pre-dexed\debug\Vuforia-c92897c4dea1945b755961b4686a35acb5f4230d.jar" />
+    </item>
+
+</items>

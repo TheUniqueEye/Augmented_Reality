@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stones" size="200.000000 140.000000" />
+    <ImageTarget name="Starbucks" size="42.299999 31.725000" />
+    <ImageTarget name="PandaExpress" size="27.000000 27.000000" />
+    <ImageTarget name="Habit" size="48.000000 34.426666" />
+  </Tracking>
+</QCARConfig>
